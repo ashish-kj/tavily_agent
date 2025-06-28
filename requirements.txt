@@ -9,3 +9,8 @@ python-dotenv>=1.0.0
 # Jupyter notebook support (optional, for running the .ipynb file)
 jupyter>=1.0.0
 ipykernel>=6.0.0
+
+langchain-openai 
+langchain 
+langchain-tavily 
+langgraph
